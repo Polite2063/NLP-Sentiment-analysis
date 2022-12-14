@@ -1,1 +1,1 @@
-# NLP-Sentiment-analysis
+# ESG meets Twitter -Sentiment Analysis project
